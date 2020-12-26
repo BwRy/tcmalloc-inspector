@@ -1,6 +1,8 @@
 # tcmalloc-inspector
 TCMalloc Inspector
 
+![tcmalloc](tcmalloc.jpg)
+
 Sample usage
 
 ```
